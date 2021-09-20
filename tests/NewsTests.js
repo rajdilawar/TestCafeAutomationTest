@@ -1,0 +1,1 @@
+//test can be written for news page if needed
