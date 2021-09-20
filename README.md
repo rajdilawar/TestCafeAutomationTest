@@ -56,3 +56,32 @@ __I have written following test cases which covers positive scenarios__ :
 5. Navigating to News section and verifying if at correct page (Verification happening both url level and checking the selector on particular page)
 6. Navigating to Business section 
 7. And Subscribing to business newsletters and verifying if the subscription message appears on page. 
+
+## **Results:**
+
+
+<pre>[git-branch: main] npm run test:runAllTests
+
+> testcafe@1.0.0 test:runAllTests
+> testcafe chrome tests/*.js
+
+ Running tests in:
+ - Chrome 93.0.4577.82 / macOS 10.15.7
+
+ Login and Navigate to Business Page
+ ✓ Subscribe to business newsletters
+
+ Dashboard Page
+ ✓ Loading Dashboard Page
+ ✓ Navigate to News
+ ✓ Navigate to Business
+
+ Login Page
+ ✓ Loading Login Page
+ ✓ FORM - Successfully Login
+
+
+ 6 passed (28s)
+</pre>
+
+
