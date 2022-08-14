@@ -1,4 +1,4 @@
-## Readme file for Automation test challenge for SPREAD AI Quality Assurance Engineer role.
+## Readme file for Automation using Page object model
 
 ## **Install TestCafe**
 
